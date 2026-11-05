@@ -24,7 +24,6 @@ ShopSmart Retail Group (25 stores, 10 Nigerian states) has data in separate syst
 | 11 | `11_Quality_Management_Plan.docx` | Acceptance criteria, dashboard standards, code review, testing approach, documentation standards, final checklist |
 | 12 | `12_Project_Management_Report.pdf` | Executive summary, package summary, answers to the eight business questions |
 | 13 | `13_Executive_Presentation.pptx` | 12-slide briefing for the Sponsor and steering committee |
-| - | `Project_Repository_Link.txt` | Link to the GitHub repository (update before submission) |
 
 ## Key numbers
 - Duration: 12 weeks, 57 working days (3 public holidays excluded)
